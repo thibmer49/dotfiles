@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thib.mercier@ymail.com
+	name = Thibault Mercier
